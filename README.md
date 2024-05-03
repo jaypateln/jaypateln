@@ -20,7 +20,7 @@ Other : ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=flat&l
 ![](https://github-readme-stats.vercel.app/api?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaypateln&theme=dark&hide_border=false)
 <div align="center">
-  <img src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" alt="Description_of_image">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Description_of_image">
 </div>
 
 
