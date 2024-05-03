@@ -18,8 +18,8 @@ Design : ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&lo
 Other : ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=flat&logo=alfred) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Description_of_image">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Description_of_image">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Description_of_image"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Description_of_image"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypateln&theme=dark&hide_border=false" alt="Description_of_image">
 </div>
 
