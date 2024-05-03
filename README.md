@@ -19,7 +19,10 @@ Other : ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=flat&l
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaypateln&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypateln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" alt="Description_of_image">
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaypateln&theme=nord&no-frame=false&no-bg=true&margin-w=4) ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
