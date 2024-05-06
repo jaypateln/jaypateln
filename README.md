@@ -24,5 +24,8 @@ Other : ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=flat&l
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaypateln&theme=nord&no-frame=false&no-bg=true&margin-w=4) ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=jaypateln&theme=nord&no-frame=false&no-bg=true&margin-w=4) 
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
