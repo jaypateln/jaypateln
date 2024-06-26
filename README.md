@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi there 👋
 <br> - 🔍 I'm 2nd Year Computer Science student at the University of New South Wales (UNSW), Sydney.<br>- 🌱 Currently, I'm diving deep into the world of coding and technology, exploring new tools and languages.<br>- 🎯 My academic journey is geared towards mastering the fundamentals of CS and applying them to real-world problems.<br>- 🚀 I'm passionate about creating innovative technology solutions that make a difference.<br>- 🛠️ I have developed several projects aimed at solving everyday problems I've encountered, enhancing my daily life through technology.<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jay---patel/) (Serious me) | Email: jaynil7677@hotmail.com (100% chance I read it)<br><br>Feel free to check out my projects and don't hesitate to reach out if you want to collaborate or chat about tech!<br>
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay---patel) 
 
 # 💻 Tech Stack:
